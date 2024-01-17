@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Wolf</h1>
-<h3 align="center">A passionate frontend developer from Chicago, IL</h3>
+<h3 align="center">Computer Science and Engineering Major from Chicago, IL</h3>
 
 - 🔭 I’m currently working on [SeatStock](https://seatstock.app)
 
