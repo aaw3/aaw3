@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Allen Wolf</h1>
 <h3 align="center">Computer Science and Engineering Major from Chicago, IL</h3>
 
-- 🔭 I’m currently working on [SeatStock](https://seatstock.app)
+- 🔭 I’m currently working on [NextFileManager](https://github.com/aaw3/NextFileManager)
 
 - 🌱 I’m currently learning **Django, PyTorch, React and Next.js**
 
-- 📫 How to reach me **allenwolfbiz@gmail.com**
+- 📫 Find my contact information on [my portolio site](https://aaw3.dev)
+
+- 📄 View [my blog](https://blog.aaw3.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/allen-wolf-88659b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen-wolf-88659b295" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/allen-wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen-wolf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
