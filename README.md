@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Allen Wolf</h1>
 <h3 align="center">Computer Science and Engineering Major from Chicago, IL</h3>
 
-- 🔭 I’m currently working on [NextFileManager](https://github.com/aaw3/NextFileManager)
+- 🔭 I’m currently working on [Lamp](https://lampbot.io/)
 
-- 🌱 I’m currently learning **Django, PyTorch, React and Next.js**
+- 🌱 I’m currently learning **Next.js, PyTorch, Kubernetes, DevOps**
 
 - 📫 Find my contact information on [my portolio site](https://aaw3.dev)
 
