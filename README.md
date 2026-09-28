@@ -5,49 +5,70 @@
 ###
 
 <div data-importer="techs" align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  </a>
-  <img width="12" />
-
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  </a>
-  <img width="12" />
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
-  </a>
-  <img width="12" />
-
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="Redis" />
-  </a>
-  <img width="12" />
-
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  </a>
-  <img width="12" />
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  </a>
+  <a
+    href="https://www.python.org/"
+    target="_blank"
+  ><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="60"
+    alt="Python"
+  /></a><img width="12" /><a
+    href="https://go.dev/"
+    target="_blank"
+  ><img
+    src="https://skillicons.dev/icons?i=go"
+    height="60"
+    alt="Go"
+  /></a><img width="12" /><a
+    href="https://www.java.com/"
+    target="_blank"
+  ><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    height="60"
+    alt="Java"
+  /></a><img width="12" /><a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+  ><img
+    src="https://skillicons.dev/icons?i=ts"
+    height="60"
+    alt="TypeScript"
+  /></a><img width="12" /><a
+    href="https://kubernetes.io/"
+    target="_blank"
+  ><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+    height="60"
+    alt="Kubernetes"
+  /></a><img width="12" /><a
+    href="https://www.postgresql.org/"
+    target="_blank"
+  ><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    height="60"
+    alt="PostgreSQL"
+  /></a><img width="12" /><a
+    href="https://redis.io/"
+    target="_blank"
+  ><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+    height="60"
+    alt="Redis"
+  /></a><img width="12" /><a
+    href="https://nextjs.org/"
+    target="_blank"
+  ><img
+    src="https://skillicons.dev/icons?i=nextjs"
+    height="60"
+    alt="Next.js"
+  /></a><img width="12" /><a
+    href="https://tailwindcss.com/"
+    target="_blank"
+  ><img
+    src="https://skillicons.dev/icons?i=tailwind"
+    height="60"
+    alt="Tailwind CSS"
+  /></a>
 </div>
 
 ###
